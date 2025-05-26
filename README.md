@@ -1,3 +1,9 @@
+## 👋 Hi, I'm [Your Name]!
+
+I'm an Information Technology student at Inholland University of Applied Sciences, learning how to code and exploring different technologies along the way.
+
+---
+
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
