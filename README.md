@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Wesley!
 
 I'm an Information Technology student at Inholland University of Applied Sciences, learning how to code and exploring different technologies along the way.
 
